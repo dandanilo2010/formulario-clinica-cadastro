@@ -1,0 +1,22 @@
+body{
+    background-image: url(./src/5725239-medicos-com-grande-bolha-de-fala-em-fundo-azul-medico-internet-consulta-medico-na-apresentacao-vetor.jpg);
+}
+
+.formulario{
+    text-align: center;
+    margin: 200px;
+    padding: 25px;
+    
+}
+
+.botao{
+    background-color: blue;
+    color: azure;
+    border-color: white;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background-color: gray;
+    transition: 0.4s ease-in-out;
+}
